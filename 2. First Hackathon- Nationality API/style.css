@@ -1,0 +1,65 @@
+body{
+    background:linear-gradient(to right, yellow, skyblue);
+    margin:30px;
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+    background-color:skyblue;
+}
+
+#label{
+    font-size: 30px;
+    margin: 5px 50px;
+}
+
+#randomName{
+    width:40%;
+    background-color: skyblue;
+    margin-right: 50px;
+    font-size:20px;
+    padding-left: 15px ;
+    font-style: italic;
+}
+
+#randomName:hover{
+    background-color:orchid;
+}
+
+#button{
+    border-radius: 10px;
+    padding: 5px 15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border:0px solid;
+    font-size: 20px;
+}
+
+#button:hover{
+    cursor: pointer;
+    background-color: orchid;
+    font-weight: bold;
+}
+
+mark{
+    background-color:yellow;
+    opacity: 0.8;
+    font-style: italic;
+    border-radius: 20px;
+}
+
+span{
+    text-decoration: underline;
+    background-color: pink;
+}
+
+#card{
+    background-image: linear-gradient(to bottom , orchid , skyblue);
+    margin: 55px;
+    border:0px solid black;
+    padding:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
